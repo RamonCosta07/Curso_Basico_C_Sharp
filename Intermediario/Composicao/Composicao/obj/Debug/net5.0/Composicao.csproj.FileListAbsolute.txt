@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Curso C#\Intermediário\Composicao\Composicao\obj\Debug\net5.0\Composicao.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\Composicao\Composicao\obj\Debug\net5.0\Composicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Curso C#\Intermediário\Composicao\Composicao\obj\Debug\net5.0\Composicao.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\Composicao\Composicao\obj\Debug\net5.0\Composicao.AssemblyInfo.cs
+C:\Users\ramon\Documents\Curso C#\Intermediário\Composicao\Composicao\obj\Debug\net5.0\Composicao.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\Composicao\Composicao\bin\Debug\net5.0\Composicao.exe
+C:\Users\ramon\Documents\Curso C#\Intermediário\Composicao\Composicao\bin\Debug\net5.0\Composicao.deps.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\Composicao\Composicao\bin\Debug\net5.0\Composicao.runtimeconfig.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\Composicao\Composicao\bin\Debug\net5.0\Composicao.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\Composicao\Composicao\bin\Debug\net5.0\Composicao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\Composicao\Composicao\bin\Debug\net5.0\ref\Composicao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\Composicao\Composicao\bin\Debug\net5.0\Composicao.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediário\Composicao\Composicao\obj\Debug\net5.0\Composicao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\Composicao\Composicao\obj\Debug\net5.0\ref\Composicao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\Composicao\Composicao\obj\Debug\net5.0\Composicao.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediário\Composicao\Composicao\obj\Debug\net5.0\Composicao.genruntimeconfig.cache

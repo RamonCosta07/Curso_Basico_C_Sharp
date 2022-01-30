@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Curso C#\Intermediário\PolimorfismoExercicioFixacao\PolimorfismoExercicioFixacao\bin\Debug\net5.0\PolimorfismoExercicioFixacao.exe
+C:\Users\ramon\Documents\Curso C#\Intermediário\PolimorfismoExercicioFixacao\PolimorfismoExercicioFixacao\bin\Debug\net5.0\PolimorfismoExercicioFixacao.deps.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\PolimorfismoExercicioFixacao\PolimorfismoExercicioFixacao\bin\Debug\net5.0\PolimorfismoExercicioFixacao.runtimeconfig.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\PolimorfismoExercicioFixacao\PolimorfismoExercicioFixacao\bin\Debug\net5.0\PolimorfismoExercicioFixacao.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\PolimorfismoExercicioFixacao\PolimorfismoExercicioFixacao\bin\Debug\net5.0\PolimorfismoExercicioFixacao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\PolimorfismoExercicioFixacao\PolimorfismoExercicioFixacao\bin\Debug\net5.0\ref\PolimorfismoExercicioFixacao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\PolimorfismoExercicioFixacao\PolimorfismoExercicioFixacao\bin\Debug\net5.0\PolimorfismoExercicioFixacao.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediário\PolimorfismoExercicioFixacao\PolimorfismoExercicioFixacao\obj\Debug\net5.0\PolimorfismoExercicioFixacao.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\PolimorfismoExercicioFixacao\PolimorfismoExercicioFixacao\obj\Debug\net5.0\PolimorfismoExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Curso C#\Intermediário\PolimorfismoExercicioFixacao\PolimorfismoExercicioFixacao\obj\Debug\net5.0\PolimorfismoExercicioFixacao.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\PolimorfismoExercicioFixacao\PolimorfismoExercicioFixacao\obj\Debug\net5.0\PolimorfismoExercicioFixacao.AssemblyInfo.cs
+C:\Users\ramon\Documents\Curso C#\Intermediário\PolimorfismoExercicioFixacao\PolimorfismoExercicioFixacao\obj\Debug\net5.0\PolimorfismoExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\PolimorfismoExercicioFixacao\PolimorfismoExercicioFixacao\obj\Debug\net5.0\PolimorfismoExercicioFixacao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\PolimorfismoExercicioFixacao\PolimorfismoExercicioFixacao\obj\Debug\net5.0\ref\PolimorfismoExercicioFixacao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\PolimorfismoExercicioFixacao\PolimorfismoExercicioFixacao\obj\Debug\net5.0\PolimorfismoExercicioFixacao.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediário\PolimorfismoExercicioFixacao\PolimorfismoExercicioFixacao\obj\Debug\net5.0\PolimorfismoExercicioFixacao.genruntimeconfig.cache

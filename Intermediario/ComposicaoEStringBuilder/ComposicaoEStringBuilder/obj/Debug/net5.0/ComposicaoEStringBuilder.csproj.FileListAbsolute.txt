@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoEStringBuilder\ComposicaoEStringBuilder\bin\Debug\net5.0\ComposicaoEStringBuilder.exe
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoEStringBuilder\ComposicaoEStringBuilder\bin\Debug\net5.0\ComposicaoEStringBuilder.deps.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoEStringBuilder\ComposicaoEStringBuilder\bin\Debug\net5.0\ComposicaoEStringBuilder.runtimeconfig.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoEStringBuilder\ComposicaoEStringBuilder\bin\Debug\net5.0\ComposicaoEStringBuilder.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoEStringBuilder\ComposicaoEStringBuilder\bin\Debug\net5.0\ComposicaoEStringBuilder.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoEStringBuilder\ComposicaoEStringBuilder\bin\Debug\net5.0\ref\ComposicaoEStringBuilder.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoEStringBuilder\ComposicaoEStringBuilder\bin\Debug\net5.0\ComposicaoEStringBuilder.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoEStringBuilder\ComposicaoEStringBuilder\obj\Debug\net5.0\ComposicaoEStringBuilder.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoEStringBuilder\ComposicaoEStringBuilder\obj\Debug\net5.0\ComposicaoEStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoEStringBuilder\ComposicaoEStringBuilder\obj\Debug\net5.0\ComposicaoEStringBuilder.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoEStringBuilder\ComposicaoEStringBuilder\obj\Debug\net5.0\ComposicaoEStringBuilder.AssemblyInfo.cs
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoEStringBuilder\ComposicaoEStringBuilder\obj\Debug\net5.0\ComposicaoEStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoEStringBuilder\ComposicaoEStringBuilder\obj\Debug\net5.0\ComposicaoEStringBuilder.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoEStringBuilder\ComposicaoEStringBuilder\obj\Debug\net5.0\ref\ComposicaoEStringBuilder.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoEStringBuilder\ComposicaoEStringBuilder\obj\Debug\net5.0\ComposicaoEStringBuilder.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoEStringBuilder\ComposicaoEStringBuilder\obj\Debug\net5.0\ComposicaoEStringBuilder.genruntimeconfig.cache

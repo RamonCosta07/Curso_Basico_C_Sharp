@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Curso C#\Intermediário\Enumeracoes\Enumeracoes\obj\Debug\net5.0\Enumeracoes.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\Enumeracoes\Enumeracoes\obj\Debug\net5.0\Enumeracoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Curso C#\Intermediário\Enumeracoes\Enumeracoes\obj\Debug\net5.0\Enumeracoes.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\Enumeracoes\Enumeracoes\obj\Debug\net5.0\Enumeracoes.AssemblyInfo.cs
+C:\Users\ramon\Documents\Curso C#\Intermediário\Enumeracoes\Enumeracoes\obj\Debug\net5.0\Enumeracoes.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\Enumeracoes\Enumeracoes\bin\Debug\net5.0\Enumeracoes.exe
+C:\Users\ramon\Documents\Curso C#\Intermediário\Enumeracoes\Enumeracoes\bin\Debug\net5.0\Enumeracoes.deps.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\Enumeracoes\Enumeracoes\bin\Debug\net5.0\Enumeracoes.runtimeconfig.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\Enumeracoes\Enumeracoes\bin\Debug\net5.0\Enumeracoes.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\Enumeracoes\Enumeracoes\bin\Debug\net5.0\Enumeracoes.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\Enumeracoes\Enumeracoes\bin\Debug\net5.0\ref\Enumeracoes.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\Enumeracoes\Enumeracoes\bin\Debug\net5.0\Enumeracoes.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediário\Enumeracoes\Enumeracoes\obj\Debug\net5.0\Enumeracoes.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\Enumeracoes\Enumeracoes\obj\Debug\net5.0\ref\Enumeracoes.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\Enumeracoes\Enumeracoes\obj\Debug\net5.0\Enumeracoes.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediário\Enumeracoes\Enumeracoes\obj\Debug\net5.0\Enumeracoes.genruntimeconfig.cache

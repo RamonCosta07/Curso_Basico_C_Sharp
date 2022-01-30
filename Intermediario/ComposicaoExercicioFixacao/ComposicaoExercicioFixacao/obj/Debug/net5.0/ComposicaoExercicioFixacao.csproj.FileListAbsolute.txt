@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoExercicioFixacao\ComposicaoExercicioFixacao\bin\Debug\net5.0\ComposicaoExercicioFixacao.exe
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoExercicioFixacao\ComposicaoExercicioFixacao\bin\Debug\net5.0\ComposicaoExercicioFixacao.deps.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoExercicioFixacao\ComposicaoExercicioFixacao\bin\Debug\net5.0\ComposicaoExercicioFixacao.runtimeconfig.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoExercicioFixacao\ComposicaoExercicioFixacao\bin\Debug\net5.0\ComposicaoExercicioFixacao.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoExercicioFixacao\ComposicaoExercicioFixacao\bin\Debug\net5.0\ComposicaoExercicioFixacao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoExercicioFixacao\ComposicaoExercicioFixacao\bin\Debug\net5.0\ref\ComposicaoExercicioFixacao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoExercicioFixacao\ComposicaoExercicioFixacao\bin\Debug\net5.0\ComposicaoExercicioFixacao.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoExercicioFixacao\ComposicaoExercicioFixacao\obj\Debug\net5.0\ComposicaoExercicioFixacao.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoExercicioFixacao\ComposicaoExercicioFixacao\obj\Debug\net5.0\ComposicaoExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoExercicioFixacao\ComposicaoExercicioFixacao\obj\Debug\net5.0\ComposicaoExercicioFixacao.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoExercicioFixacao\ComposicaoExercicioFixacao\obj\Debug\net5.0\ComposicaoExercicioFixacao.AssemblyInfo.cs
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoExercicioFixacao\ComposicaoExercicioFixacao\obj\Debug\net5.0\ComposicaoExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoExercicioFixacao\ComposicaoExercicioFixacao\obj\Debug\net5.0\ComposicaoExercicioFixacao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoExercicioFixacao\ComposicaoExercicioFixacao\obj\Debug\net5.0\ref\ComposicaoExercicioFixacao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoExercicioFixacao\ComposicaoExercicioFixacao\obj\Debug\net5.0\ComposicaoExercicioFixacao.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediário\ComposicaoExercicioFixacao\ComposicaoExercicioFixacao\obj\Debug\net5.0\ComposicaoExercicioFixacao.genruntimeconfig.cache

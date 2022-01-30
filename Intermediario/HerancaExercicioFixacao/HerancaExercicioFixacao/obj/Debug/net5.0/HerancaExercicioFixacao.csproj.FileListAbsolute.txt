@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Curso C#\Intermediário\HerancaExercicioFixacao\HerancaExercicioFixacao\bin\Debug\net5.0\HerancaExercicioFixacao.exe
+C:\Users\ramon\Documents\Curso C#\Intermediário\HerancaExercicioFixacao\HerancaExercicioFixacao\bin\Debug\net5.0\HerancaExercicioFixacao.deps.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\HerancaExercicioFixacao\HerancaExercicioFixacao\bin\Debug\net5.0\HerancaExercicioFixacao.runtimeconfig.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\HerancaExercicioFixacao\HerancaExercicioFixacao\bin\Debug\net5.0\HerancaExercicioFixacao.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\HerancaExercicioFixacao\HerancaExercicioFixacao\bin\Debug\net5.0\HerancaExercicioFixacao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\HerancaExercicioFixacao\HerancaExercicioFixacao\bin\Debug\net5.0\ref\HerancaExercicioFixacao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\HerancaExercicioFixacao\HerancaExercicioFixacao\bin\Debug\net5.0\HerancaExercicioFixacao.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediário\HerancaExercicioFixacao\HerancaExercicioFixacao\obj\Debug\net5.0\HerancaExercicioFixacao.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\HerancaExercicioFixacao\HerancaExercicioFixacao\obj\Debug\net5.0\HerancaExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Curso C#\Intermediário\HerancaExercicioFixacao\HerancaExercicioFixacao\obj\Debug\net5.0\HerancaExercicioFixacao.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\HerancaExercicioFixacao\HerancaExercicioFixacao\obj\Debug\net5.0\HerancaExercicioFixacao.AssemblyInfo.cs
+C:\Users\ramon\Documents\Curso C#\Intermediário\HerancaExercicioFixacao\HerancaExercicioFixacao\obj\Debug\net5.0\HerancaExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\HerancaExercicioFixacao\HerancaExercicioFixacao\obj\Debug\net5.0\HerancaExercicioFixacao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\HerancaExercicioFixacao\HerancaExercicioFixacao\obj\Debug\net5.0\ref\HerancaExercicioFixacao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\HerancaExercicioFixacao\HerancaExercicioFixacao\obj\Debug\net5.0\HerancaExercicioFixacao.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediário\HerancaExercicioFixacao\HerancaExercicioFixacao\obj\Debug\net5.0\HerancaExercicioFixacao.genruntimeconfig.cache
