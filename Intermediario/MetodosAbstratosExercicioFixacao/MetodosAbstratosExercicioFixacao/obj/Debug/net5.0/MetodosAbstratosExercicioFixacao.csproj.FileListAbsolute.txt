@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Curso C#\Intermediário\MetodosAbstratosExercicioFixacao\MetodosAbstratosExercicioFixacao\bin\Debug\net5.0\MetodosAbstratosExercicioFixacao.exe
+C:\Users\ramon\Documents\Curso C#\Intermediário\MetodosAbstratosExercicioFixacao\MetodosAbstratosExercicioFixacao\bin\Debug\net5.0\MetodosAbstratosExercicioFixacao.deps.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\MetodosAbstratosExercicioFixacao\MetodosAbstratosExercicioFixacao\bin\Debug\net5.0\MetodosAbstratosExercicioFixacao.runtimeconfig.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\MetodosAbstratosExercicioFixacao\MetodosAbstratosExercicioFixacao\bin\Debug\net5.0\MetodosAbstratosExercicioFixacao.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\MetodosAbstratosExercicioFixacao\MetodosAbstratosExercicioFixacao\bin\Debug\net5.0\MetodosAbstratosExercicioFixacao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\MetodosAbstratosExercicioFixacao\MetodosAbstratosExercicioFixacao\bin\Debug\net5.0\ref\MetodosAbstratosExercicioFixacao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\MetodosAbstratosExercicioFixacao\MetodosAbstratosExercicioFixacao\bin\Debug\net5.0\MetodosAbstratosExercicioFixacao.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediário\MetodosAbstratosExercicioFixacao\MetodosAbstratosExercicioFixacao\obj\Debug\net5.0\MetodosAbstratosExercicioFixacao.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\MetodosAbstratosExercicioFixacao\MetodosAbstratosExercicioFixacao\obj\Debug\net5.0\MetodosAbstratosExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Curso C#\Intermediário\MetodosAbstratosExercicioFixacao\MetodosAbstratosExercicioFixacao\obj\Debug\net5.0\MetodosAbstratosExercicioFixacao.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\MetodosAbstratosExercicioFixacao\MetodosAbstratosExercicioFixacao\obj\Debug\net5.0\MetodosAbstratosExercicioFixacao.AssemblyInfo.cs
+C:\Users\ramon\Documents\Curso C#\Intermediário\MetodosAbstratosExercicioFixacao\MetodosAbstratosExercicioFixacao\obj\Debug\net5.0\MetodosAbstratosExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\MetodosAbstratosExercicioFixacao\MetodosAbstratosExercicioFixacao\obj\Debug\net5.0\MetodosAbstratosExercicioFixacao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\MetodosAbstratosExercicioFixacao\MetodosAbstratosExercicioFixacao\obj\Debug\net5.0\ref\MetodosAbstratosExercicioFixacao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\MetodosAbstratosExercicioFixacao\MetodosAbstratosExercicioFixacao\obj\Debug\net5.0\MetodosAbstratosExercicioFixacao.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediário\MetodosAbstratosExercicioFixacao\MetodosAbstratosExercicioFixacao\obj\Debug\net5.0\MetodosAbstratosExercicioFixacao.genruntimeconfig.cache

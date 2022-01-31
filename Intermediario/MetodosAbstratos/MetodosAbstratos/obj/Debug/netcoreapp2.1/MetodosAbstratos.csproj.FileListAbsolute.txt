@@ -1,0 +1,13 @@
+C:\Users\ramon\Documents\Curso C#\Intermediario\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp2.1\MetodosAbstratos.deps.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp2.1\MetodosAbstratos.runtimeconfig.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp2.1\MetodosAbstratos.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp2.1\MetodosAbstratos.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp2.1\MetodosAbstratos.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediario\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp2.1\MetodosAbstratos.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp2.1\MetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Curso C#\Intermediario\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp2.1\MetodosAbstratos.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp2.1\MetodosAbstratos.AssemblyInfo.cs
+C:\Users\ramon\Documents\Curso C#\Intermediario\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp2.1\MetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp2.1\MetodosAbstratos.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp2.1\MetodosAbstratos.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediario\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp2.1\MetodosAbstratos.genruntimeconfig.cache
