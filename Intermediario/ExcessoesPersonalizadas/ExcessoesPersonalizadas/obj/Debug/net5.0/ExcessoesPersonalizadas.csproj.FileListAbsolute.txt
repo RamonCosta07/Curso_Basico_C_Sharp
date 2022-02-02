@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesPersonalizadas\ExcessoesPersonalizadas\bin\Debug\net5.0\ExcessoesPersonalizadas.exe
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesPersonalizadas\ExcessoesPersonalizadas\bin\Debug\net5.0\ExcessoesPersonalizadas.deps.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesPersonalizadas\ExcessoesPersonalizadas\bin\Debug\net5.0\ExcessoesPersonalizadas.runtimeconfig.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesPersonalizadas\ExcessoesPersonalizadas\bin\Debug\net5.0\ExcessoesPersonalizadas.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesPersonalizadas\ExcessoesPersonalizadas\bin\Debug\net5.0\ExcessoesPersonalizadas.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesPersonalizadas\ExcessoesPersonalizadas\bin\Debug\net5.0\ref\ExcessoesPersonalizadas.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesPersonalizadas\ExcessoesPersonalizadas\bin\Debug\net5.0\ExcessoesPersonalizadas.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesPersonalizadas\ExcessoesPersonalizadas\obj\Debug\net5.0\ExcessoesPersonalizadas.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesPersonalizadas\ExcessoesPersonalizadas\obj\Debug\net5.0\ExcessoesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesPersonalizadas\ExcessoesPersonalizadas\obj\Debug\net5.0\ExcessoesPersonalizadas.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesPersonalizadas\ExcessoesPersonalizadas\obj\Debug\net5.0\ExcessoesPersonalizadas.AssemblyInfo.cs
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesPersonalizadas\ExcessoesPersonalizadas\obj\Debug\net5.0\ExcessoesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesPersonalizadas\ExcessoesPersonalizadas\obj\Debug\net5.0\ExcessoesPersonalizadas.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesPersonalizadas\ExcessoesPersonalizadas\obj\Debug\net5.0\ref\ExcessoesPersonalizadas.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesPersonalizadas\ExcessoesPersonalizadas\obj\Debug\net5.0\ExcessoesPersonalizadas.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesPersonalizadas\ExcessoesPersonalizadas\obj\Debug\net5.0\ExcessoesPersonalizadas.genruntimeconfig.cache

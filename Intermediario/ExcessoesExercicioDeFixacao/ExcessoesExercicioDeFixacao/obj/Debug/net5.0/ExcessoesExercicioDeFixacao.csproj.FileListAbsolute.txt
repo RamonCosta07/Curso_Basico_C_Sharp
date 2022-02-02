@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesExercicioDeFixacao\ExcessoesExercicioDeFixacao\bin\Debug\net5.0\ExcessoesExercicioDeFixacao.exe
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesExercicioDeFixacao\ExcessoesExercicioDeFixacao\bin\Debug\net5.0\ExcessoesExercicioDeFixacao.deps.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesExercicioDeFixacao\ExcessoesExercicioDeFixacao\bin\Debug\net5.0\ExcessoesExercicioDeFixacao.runtimeconfig.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesExercicioDeFixacao\ExcessoesExercicioDeFixacao\bin\Debug\net5.0\ExcessoesExercicioDeFixacao.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesExercicioDeFixacao\ExcessoesExercicioDeFixacao\bin\Debug\net5.0\ExcessoesExercicioDeFixacao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesExercicioDeFixacao\ExcessoesExercicioDeFixacao\bin\Debug\net5.0\ref\ExcessoesExercicioDeFixacao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesExercicioDeFixacao\ExcessoesExercicioDeFixacao\bin\Debug\net5.0\ExcessoesExercicioDeFixacao.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesExercicioDeFixacao\ExcessoesExercicioDeFixacao\obj\Debug\net5.0\ExcessoesExercicioDeFixacao.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesExercicioDeFixacao\ExcessoesExercicioDeFixacao\obj\Debug\net5.0\ExcessoesExercicioDeFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesExercicioDeFixacao\ExcessoesExercicioDeFixacao\obj\Debug\net5.0\ExcessoesExercicioDeFixacao.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesExercicioDeFixacao\ExcessoesExercicioDeFixacao\obj\Debug\net5.0\ExcessoesExercicioDeFixacao.AssemblyInfo.cs
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesExercicioDeFixacao\ExcessoesExercicioDeFixacao\obj\Debug\net5.0\ExcessoesExercicioDeFixacao.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesExercicioDeFixacao\ExcessoesExercicioDeFixacao\obj\Debug\net5.0\ExcessoesExercicioDeFixacao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesExercicioDeFixacao\ExcessoesExercicioDeFixacao\obj\Debug\net5.0\ref\ExcessoesExercicioDeFixacao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesExercicioDeFixacao\ExcessoesExercicioDeFixacao\obj\Debug\net5.0\ExcessoesExercicioDeFixacao.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediário\ExcessoesExercicioDeFixacao\ExcessoesExercicioDeFixacao\obj\Debug\net5.0\ExcessoesExercicioDeFixacao.genruntimeconfig.cache
