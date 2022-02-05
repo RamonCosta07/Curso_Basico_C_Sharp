@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Curso C#\Intermediario\File\File\bin\Debug\net5.0\File.exe
+C:\Users\ramon\Documents\Curso C#\Intermediario\File\File\bin\Debug\net5.0\File.deps.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\File\File\bin\Debug\net5.0\File.runtimeconfig.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\File\File\bin\Debug\net5.0\File.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\File\File\bin\Debug\net5.0\File.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\File\File\bin\Debug\net5.0\ref\File.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\File\File\bin\Debug\net5.0\File.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediario\File\File\obj\Debug\net5.0\File.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\File\File\obj\Debug\net5.0\File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Curso C#\Intermediario\File\File\obj\Debug\net5.0\File.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\File\File\obj\Debug\net5.0\File.AssemblyInfo.cs
+C:\Users\ramon\Documents\Curso C#\Intermediario\File\File\obj\Debug\net5.0\File.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\File\File\obj\Debug\net5.0\File.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\File\File\obj\Debug\net5.0\ref\File.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\File\File\obj\Debug\net5.0\File.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediario\File\File\obj\Debug\net5.0\File.genruntimeconfig.cache

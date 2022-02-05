@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Curso C#\Intermediario\ProblemaSemInterface\ProblemaSemInterface\bin\Debug\net5.0\ProblemaSemInterface.exe
+C:\Users\ramon\Documents\Curso C#\Intermediario\ProblemaSemInterface\ProblemaSemInterface\bin\Debug\net5.0\ProblemaSemInterface.deps.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\ProblemaSemInterface\ProblemaSemInterface\bin\Debug\net5.0\ProblemaSemInterface.runtimeconfig.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\ProblemaSemInterface\ProblemaSemInterface\bin\Debug\net5.0\ProblemaSemInterface.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\ProblemaSemInterface\ProblemaSemInterface\bin\Debug\net5.0\ProblemaSemInterface.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\ProblemaSemInterface\ProblemaSemInterface\bin\Debug\net5.0\ref\ProblemaSemInterface.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\ProblemaSemInterface\ProblemaSemInterface\bin\Debug\net5.0\ProblemaSemInterface.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediario\ProblemaSemInterface\ProblemaSemInterface\obj\Debug\net5.0\ProblemaSemInterface.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\ProblemaSemInterface\ProblemaSemInterface\obj\Debug\net5.0\ProblemaSemInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Curso C#\Intermediario\ProblemaSemInterface\ProblemaSemInterface\obj\Debug\net5.0\ProblemaSemInterface.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\ProblemaSemInterface\ProblemaSemInterface\obj\Debug\net5.0\ProblemaSemInterface.AssemblyInfo.cs
+C:\Users\ramon\Documents\Curso C#\Intermediario\ProblemaSemInterface\ProblemaSemInterface\obj\Debug\net5.0\ProblemaSemInterface.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\ProblemaSemInterface\ProblemaSemInterface\obj\Debug\net5.0\ProblemaSemInterface.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\ProblemaSemInterface\ProblemaSemInterface\obj\Debug\net5.0\ref\ProblemaSemInterface.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\ProblemaSemInterface\ProblemaSemInterface\obj\Debug\net5.0\ProblemaSemInterface.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediario\ProblemaSemInterface\ProblemaSemInterface\obj\Debug\net5.0\ProblemaSemInterface.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Curso C#\Intermediario\BlocoUsing\BlocoUsing\bin\Debug\net5.0\BlocoUsing.exe
+C:\Users\ramon\Documents\Curso C#\Intermediario\BlocoUsing\BlocoUsing\bin\Debug\net5.0\BlocoUsing.deps.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\BlocoUsing\BlocoUsing\bin\Debug\net5.0\BlocoUsing.runtimeconfig.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\BlocoUsing\BlocoUsing\bin\Debug\net5.0\BlocoUsing.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\BlocoUsing\BlocoUsing\bin\Debug\net5.0\BlocoUsing.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\BlocoUsing\BlocoUsing\bin\Debug\net5.0\ref\BlocoUsing.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\BlocoUsing\BlocoUsing\bin\Debug\net5.0\BlocoUsing.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediario\BlocoUsing\BlocoUsing\obj\Debug\net5.0\BlocoUsing.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\BlocoUsing\BlocoUsing\obj\Debug\net5.0\BlocoUsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Curso C#\Intermediario\BlocoUsing\BlocoUsing\obj\Debug\net5.0\BlocoUsing.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\BlocoUsing\BlocoUsing\obj\Debug\net5.0\BlocoUsing.AssemblyInfo.cs
+C:\Users\ramon\Documents\Curso C#\Intermediario\BlocoUsing\BlocoUsing\obj\Debug\net5.0\BlocoUsing.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\BlocoUsing\BlocoUsing\obj\Debug\net5.0\BlocoUsing.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\BlocoUsing\BlocoUsing\obj\Debug\net5.0\ref\BlocoUsing.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\BlocoUsing\BlocoUsing\obj\Debug\net5.0\BlocoUsing.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediario\BlocoUsing\BlocoUsing\obj\Debug\net5.0\BlocoUsing.genruntimeconfig.cache

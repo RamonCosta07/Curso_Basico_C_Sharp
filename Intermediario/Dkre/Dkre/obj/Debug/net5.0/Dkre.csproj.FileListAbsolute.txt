@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Curso C#\Intermediario\Dkre\Dkre\bin\Debug\net5.0\Dkre.exe
+C:\Users\ramon\Documents\Curso C#\Intermediario\Dkre\Dkre\bin\Debug\net5.0\Dkre.deps.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\Dkre\Dkre\bin\Debug\net5.0\Dkre.runtimeconfig.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\Dkre\Dkre\bin\Debug\net5.0\Dkre.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\Dkre\Dkre\bin\Debug\net5.0\Dkre.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\Dkre\Dkre\bin\Debug\net5.0\ref\Dkre.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\Dkre\Dkre\bin\Debug\net5.0\Dkre.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediario\Dkre\Dkre\obj\Debug\net5.0\Dkre.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\Dkre\Dkre\obj\Debug\net5.0\Dkre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Curso C#\Intermediario\Dkre\Dkre\obj\Debug\net5.0\Dkre.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\Dkre\Dkre\obj\Debug\net5.0\Dkre.AssemblyInfo.cs
+C:\Users\ramon\Documents\Curso C#\Intermediario\Dkre\Dkre\obj\Debug\net5.0\Dkre.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\Dkre\Dkre\obj\Debug\net5.0\Dkre.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\Dkre\Dkre\obj\Debug\net5.0\ref\Dkre.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\Dkre\Dkre\obj\Debug\net5.0\Dkre.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediario\Dkre\Dkre\obj\Debug\net5.0\Dkre.genruntimeconfig.cache

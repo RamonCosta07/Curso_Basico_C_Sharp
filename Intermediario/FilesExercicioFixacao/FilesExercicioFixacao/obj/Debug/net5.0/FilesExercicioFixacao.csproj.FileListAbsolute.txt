@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Curso C#\Intermediario\FilesExercicioFixacao\FilesExercicioFixacao\bin\Debug\net5.0\FilesExercicioFixacao.exe
+C:\Users\ramon\Documents\Curso C#\Intermediario\FilesExercicioFixacao\FilesExercicioFixacao\bin\Debug\net5.0\FilesExercicioFixacao.deps.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\FilesExercicioFixacao\FilesExercicioFixacao\bin\Debug\net5.0\FilesExercicioFixacao.runtimeconfig.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\FilesExercicioFixacao\FilesExercicioFixacao\bin\Debug\net5.0\FilesExercicioFixacao.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\FilesExercicioFixacao\FilesExercicioFixacao\bin\Debug\net5.0\FilesExercicioFixacao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\FilesExercicioFixacao\FilesExercicioFixacao\bin\Debug\net5.0\ref\FilesExercicioFixacao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\FilesExercicioFixacao\FilesExercicioFixacao\bin\Debug\net5.0\FilesExercicioFixacao.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediario\FilesExercicioFixacao\FilesExercicioFixacao\obj\Debug\net5.0\FilesExercicioFixacao.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\FilesExercicioFixacao\FilesExercicioFixacao\obj\Debug\net5.0\FilesExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Curso C#\Intermediario\FilesExercicioFixacao\FilesExercicioFixacao\obj\Debug\net5.0\FilesExercicioFixacao.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\FilesExercicioFixacao\FilesExercicioFixacao\obj\Debug\net5.0\FilesExercicioFixacao.AssemblyInfo.cs
+C:\Users\ramon\Documents\Curso C#\Intermediario\FilesExercicioFixacao\FilesExercicioFixacao\obj\Debug\net5.0\FilesExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\FilesExercicioFixacao\FilesExercicioFixacao\obj\Debug\net5.0\FilesExercicioFixacao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\FilesExercicioFixacao\FilesExercicioFixacao\obj\Debug\net5.0\ref\FilesExercicioFixacao.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\FilesExercicioFixacao\FilesExercicioFixacao\obj\Debug\net5.0\FilesExercicioFixacao.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediario\FilesExercicioFixacao\FilesExercicioFixacao\obj\Debug\net5.0\FilesExercicioFixacao.genruntimeconfig.cache

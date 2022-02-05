@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Curso C#\Intermediario\StreamWriterExemplo\StreamWriterExemplo\bin\Debug\net5.0\StreamWriterExemplo.exe
+C:\Users\ramon\Documents\Curso C#\Intermediario\StreamWriterExemplo\StreamWriterExemplo\bin\Debug\net5.0\StreamWriterExemplo.deps.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\StreamWriterExemplo\StreamWriterExemplo\bin\Debug\net5.0\StreamWriterExemplo.runtimeconfig.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\StreamWriterExemplo\StreamWriterExemplo\bin\Debug\net5.0\StreamWriterExemplo.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\StreamWriterExemplo\StreamWriterExemplo\bin\Debug\net5.0\StreamWriterExemplo.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\StreamWriterExemplo\StreamWriterExemplo\bin\Debug\net5.0\ref\StreamWriterExemplo.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\StreamWriterExemplo\StreamWriterExemplo\bin\Debug\net5.0\StreamWriterExemplo.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediario\StreamWriterExemplo\StreamWriterExemplo\obj\Debug\net5.0\StreamWriterExemplo.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\StreamWriterExemplo\StreamWriterExemplo\obj\Debug\net5.0\StreamWriterExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Curso C#\Intermediario\StreamWriterExemplo\StreamWriterExemplo\obj\Debug\net5.0\StreamWriterExemplo.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\StreamWriterExemplo\StreamWriterExemplo\obj\Debug\net5.0\StreamWriterExemplo.AssemblyInfo.cs
+C:\Users\ramon\Documents\Curso C#\Intermediario\StreamWriterExemplo\StreamWriterExemplo\obj\Debug\net5.0\StreamWriterExemplo.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\StreamWriterExemplo\StreamWriterExemplo\obj\Debug\net5.0\StreamWriterExemplo.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\StreamWriterExemplo\StreamWriterExemplo\obj\Debug\net5.0\ref\StreamWriterExemplo.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\StreamWriterExemplo\StreamWriterExemplo\obj\Debug\net5.0\StreamWriterExemplo.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediario\StreamWriterExemplo\StreamWriterExemplo\obj\Debug\net5.0\StreamWriterExemplo.genruntimeconfig.cache
