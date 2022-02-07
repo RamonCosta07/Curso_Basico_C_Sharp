@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComHeranca\InterfaceComHeranca\bin\Debug\net5.0\InterfaceComHeranca.exe
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComHeranca\InterfaceComHeranca\bin\Debug\net5.0\InterfaceComHeranca.deps.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComHeranca\InterfaceComHeranca\bin\Debug\net5.0\InterfaceComHeranca.runtimeconfig.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComHeranca\InterfaceComHeranca\bin\Debug\net5.0\InterfaceComHeranca.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComHeranca\InterfaceComHeranca\bin\Debug\net5.0\InterfaceComHeranca.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComHeranca\InterfaceComHeranca\bin\Debug\net5.0\ref\InterfaceComHeranca.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComHeranca\InterfaceComHeranca\bin\Debug\net5.0\InterfaceComHeranca.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComHeranca\InterfaceComHeranca\obj\Debug\net5.0\InterfaceComHeranca.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComHeranca\InterfaceComHeranca\obj\Debug\net5.0\InterfaceComHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComHeranca\InterfaceComHeranca\obj\Debug\net5.0\InterfaceComHeranca.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComHeranca\InterfaceComHeranca\obj\Debug\net5.0\InterfaceComHeranca.AssemblyInfo.cs
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComHeranca\InterfaceComHeranca\obj\Debug\net5.0\InterfaceComHeranca.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComHeranca\InterfaceComHeranca\obj\Debug\net5.0\InterfaceComHeranca.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComHeranca\InterfaceComHeranca\obj\Debug\net5.0\ref\InterfaceComHeranca.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComHeranca\InterfaceComHeranca\obj\Debug\net5.0\InterfaceComHeranca.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComHeranca\InterfaceComHeranca\obj\Debug\net5.0\InterfaceComHeranca.genruntimeconfig.cache

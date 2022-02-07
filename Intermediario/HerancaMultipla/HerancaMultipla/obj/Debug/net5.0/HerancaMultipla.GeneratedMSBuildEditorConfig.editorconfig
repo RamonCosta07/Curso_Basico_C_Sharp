@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = Heranca
-build_property.ProjectDir = C:\Users\ramon\Documents\Curso C#\Intermediario\Heranca\Heranca\
+build_property.RootNamespace = HerancaMultipla
+build_property.ProjectDir = C:\Users\ramon\Documents\Curso C#\Intermediario\HerancaMultipla\HerancaMultipla\
