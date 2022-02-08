@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ramon\\Documents\\Curso C#\\Intermediario\\Directory\\Dkre\\Dkre.csproj",
-      "projectName": "Dkre",
-      "projectPath": "C:\\Users\\ramon\\Documents\\Curso C#\\Intermediario\\Directory\\Dkre\\Dkre.csproj",
+      "projectUniqueName": "C:\\Users\\ramon\\Documents\\Curso C#\\Intermediario\\InterfaceComparable\\InterfaceComparable\\InterfaceComparable.csproj",
+      "projectName": "InterfaceComparable",
+      "projectPath": "C:\\Users\\ramon\\Documents\\Curso C#\\Intermediario\\InterfaceComparable\\InterfaceComparable\\InterfaceComparable.csproj",
       "packagesPath": "C:\\Users\\ramon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ramon\\Documents\\Curso C#\\Intermediario\\Directory\\Dkre\\obj\\",
+      "outputPath": "C:\\Users\\ramon\\Documents\\Curso C#\\Intermediario\\InterfaceComparable\\InterfaceComparable\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

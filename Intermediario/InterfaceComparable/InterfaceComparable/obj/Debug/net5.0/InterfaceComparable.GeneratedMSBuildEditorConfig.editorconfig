@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = Dkre
-build_property.ProjectDir = C:\Users\ramon\Documents\Curso C#\Intermediario\Directory\Dkre\
+build_property.RootNamespace = InterfaceComparable
+build_property.ProjectDir = C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComparable\InterfaceComparable\

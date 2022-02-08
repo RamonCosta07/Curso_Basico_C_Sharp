@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComparable\InterfaceComparable\bin\Debug\net5.0\InterfaceComparable.exe
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComparable\InterfaceComparable\bin\Debug\net5.0\InterfaceComparable.deps.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComparable\InterfaceComparable\bin\Debug\net5.0\InterfaceComparable.runtimeconfig.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComparable\InterfaceComparable\bin\Debug\net5.0\InterfaceComparable.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComparable\InterfaceComparable\bin\Debug\net5.0\InterfaceComparable.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComparable\InterfaceComparable\bin\Debug\net5.0\ref\InterfaceComparable.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComparable\InterfaceComparable\bin\Debug\net5.0\InterfaceComparable.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComparable\InterfaceComparable\obj\Debug\net5.0\InterfaceComparable.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComparable\InterfaceComparable\obj\Debug\net5.0\InterfaceComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComparable\InterfaceComparable\obj\Debug\net5.0\InterfaceComparable.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComparable\InterfaceComparable\obj\Debug\net5.0\InterfaceComparable.AssemblyInfo.cs
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComparable\InterfaceComparable\obj\Debug\net5.0\InterfaceComparable.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComparable\InterfaceComparable\obj\Debug\net5.0\InterfaceComparable.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComparable\InterfaceComparable\obj\Debug\net5.0\ref\InterfaceComparable.dll
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComparable\InterfaceComparable\obj\Debug\net5.0\InterfaceComparable.pdb
+C:\Users\ramon\Documents\Curso C#\Intermediario\InterfaceComparable\InterfaceComparable\obj\Debug\net5.0\InterfaceComparable.genruntimeconfig.cache
